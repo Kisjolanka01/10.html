@@ -1,6 +1,7 @@
 body{
   background-image: url('hatter.png');
   padding: 5px 25px;
+  background-image:url(hatter.png);
 }
 
 p{
@@ -32,7 +33,11 @@ h1, h2{
 
 a{
   text-decoration: none;
+<<<<<<< HEAD
   color: #7F7F7F;
+=======
+  color:#7F7F7F;
+>>>>>>> f00e681a695693c2e0d0cae2a9ed4dd5d7d52239
 }
 
 img{
@@ -55,4 +60,5 @@ img{
 #teljes{
   width:280px;
   float:right;
+  width: 280px;
 }
